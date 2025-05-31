@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "titulo": "iPhone 14 Pro Max 256GB",
+    "descripcion": "Excelente estado, incluye cargador original y funda. Batería al 95%. Sin rayones ni golpes.",
+    "precio": 850000,
+    "categoria": "Tecnología",
+    "ubicacion": "Santiago, Chile",
+    "fechaCreacion": "2024-01-15",
+    "autor": "Carlos Mendoza",
+    "favorito": true,
+    "destacado": true,
+    "imagen": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 2,
+    "titulo": "Apartamento 2 habitaciones",
+    "descripcion": "Hermoso apartamento en zona residencial, 2 habitaciones, 2 baños, cocina integral, parqueadero.",
+    "precio": 120000000,
+    "categoria": "Inmuebles",
+    "ubicacion": "Valparaíso, Chile",
+    "fechaCreacion": "2024-01-14",
+    "autor": "María González",
+    "favorito": false,
+    "destacado": false,
+    "imagen": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 3,
+    "titulo": "Bicicleta de montaña Trek",
+    "descripcion": "Bicicleta Trek X-Caliber 8, talla M, poco uso, perfecta para trail y montaña. Incluye casco.",
+    "precio": 280000,
+    "categoria": "Deportes",
+    "ubicacion": "Concepción, Chile",
+    "fechaCreacion": "2024-01-13",
+    "autor": "Andrés Ruiz",
+    "favorito": true,
+    "destacado": true,
+    "imagen": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 4,
+    "titulo": "Clases de guitarra particulares",
+    "descripcion": "Profesor con 10 años de experiencia ofrece clases personalizadas de guitarra acústica y eléctrica.",
+    "precio": 25000,
+    "categoria": "Servicios",
+    "ubicacion": "La Serena, Chile",
+    "fechaCreacion": "2024-01-12",
+    "autor": "Luis Herrera",
+    "favorito": false,
+    "destacado": false,
+    "imagen": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 5,
+    "titulo": "Sofá 3 puestos como nuevo",
+    "descripcion": "Sofá en cuero sintético color café, muy cómodo, ideal para sala. Se vende por mudanza.",
+    "precio": 450000,
+    "categoria": "Hogar",
+    "ubicacion": "Antofagasta, Chile",
+    "fechaCreacion": "2024-01-11",
+    "autor": "Ana Morales",
+    "favorito": false,
+    "destacado": false,
+    "imagen": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": 6,
+    "titulo": "Curso de programación web",
+    "descripcion": "Aprende HTML, CSS, JavaScript y React desde cero. Modalidad virtual con certificado.",
+    "precio": 350000,
+    "categoria": "Educación",
+    "ubicacion": "Temuco, Chile",
+    "fechaCreacion": "2024-01-10",
+    "autor": "TechAcademy",
+    "favorito": true,
+    "destacado": true,
+    "imagen": "/placeholder.svg?height=200&width=300"
+  }
+]
